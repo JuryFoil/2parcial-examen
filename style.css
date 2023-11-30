@@ -1,7 +1,23 @@
 *{
     text-align: center;
 }
-
+input{
+    width: 40%;
+    height: 50px;
+    border-color: blueviolet;
+    margin: 10px;
+    font-size: x-large;
+}
 button{
-    width: 10%;
+    width: 18%;
+    height: 50px;
+    color: aliceblue;
+    font-size: larger;
+    margin: 10px;
+    margin-left: 15px;
+}
+
+li{
+    font-size: xx-large;
+
 }
